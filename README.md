@@ -19,3 +19,6 @@ To win you should arrange the numbers in a sequence like the following:
 
 ### To run
 This game was made in **python** using the **termios** library, not avaliable on Windows :thinking:
+
+Use python to fire the `game.py` file:  
+`python game.py`
